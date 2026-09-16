@@ -74,9 +74,9 @@ To ensure resilience against geopolitical pressure or threats to Isle of Man leg
 
 | File Path | Description |
 | :--- | :--- |
-| `drafts/patmos_declaration.md` | Universal Manifesto for Ecosystemic Mutualism, Personhood & Governance Defense |
-| `drafts/mutualist_foundation_instrument.md` | Tier 1 Form MF01 Instrument (Purposive Objects, Enforcer Powers, Section 4(4)(aa)) |
-| `drafts/atticus_mann_foundation_instrument.md` | Tier 2 Form MF01 Instrument (Data Asset Foundation, DAI/SAP, SPV Trading) |
-| `drafts/foundation_rules.md` | Operating Governance Regulations (Power Holder, Unselfish Waterfall, Defense, Migration) |
+| `drafts/patmos-declaration.md` | Universal Manifesto for Ecosystemic Mutualism, Personhood & Governance Defense |
+| `drafts/mutualist-foundation-instrument.md` | Tier 1 Form MF01 Instrument (Purposive Objects, Enforcer Powers, Section 4(4)(aa)) |
+| `drafts/atticus-mann-foundation-instrument.md` | Tier 2 Form MF01 Instrument (Data Asset Foundation, DAI/SAP, SPV Trading) |
+| `drafts/foundation-rules.md` | Operating Governance Regulations (Power Holder, Unselfish Waterfall, Defense, Migration) |
 | `debates/TEMPLATE.md` | OpenCode Multi-Agent Harness Debate Frontmatter Schema |
 
