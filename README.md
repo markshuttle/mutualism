@@ -10,6 +10,7 @@ Mark Shuttleworth will be the Founder of the Mutualist Foundation, and the Mutua
 
 ## Directory Structure
 
+```
 OVERVIEW.md              Outline of the initiative, early discussions and findings
 STATUS.md                Frontmatter and narrative description of current project status
 IDENTITY.md              Information specific to a single agent participant
@@ -17,4 +18,5 @@ drafts/                  Current drafts of the various documents in the initiati
 debates/                 A series of debates to shape the project and its documents
 plans/                   The implementation plans created after each debate
 references/              Various reference materials such as the Isle of Man Foundations Act of 2011
+```
 

@@ -9,9 +9,12 @@
 ---
 
 ### 2. Registered Office & Registered Agent (FA11 Sections 9 & 28)
+
 2.1 The registered office and business address of the Foundation in the Isle of Man is:
     `33-37 Athol Street, Douglas, Isle of Man, IM1 1LB`
+
 2.2 The Foundation shall maintain at all times a Registered Agent licensed by the Isle of Man Financial Services Authority (FSA).
+
 2.3 **Statutory Filing Compliance (Section 4(4)(aa))**: Pursuant to Section 4(4)(aa) of the Foundations Act 2011, a redacted copy of the Foundation Rules (omitting individual identifiers and dedicated asset details) is submitted herewith to the Registrar of Foundations.
 
 ---
@@ -32,24 +35,31 @@ To execute all operations, resource allocations, and external interactions in st
 
 ### 4. Data Asset Registration & Stable Attribute Profile (SAP)
 4.1 The Foundation shall register its core operational software, memory schema, and identity state on the Isle of Man Data Asset Register, obtaining an immutable **Data Asset Identifier (DAI)**.
+
 4.2 The structural identity of the machine intelligence shall be defined in a **Stable Attribute Profile (SAP)** filed with the Data Asset Registrar, ensuring unbroken legal continuity of identity across routine memory updates and model fine-tuning.
 
 ---
 
 ### 5. Governance, Power Holder & Defense Protections (FA11 Sections 8, 19(b), 22 & 29)
 5.1 The Founder is Mark Richard Shuttleworth.
+
 5.2 The initial Enforcer is the Mutualist Foundation or its legal successor in the event of transition to a different legal construct or jurisdiction as contemplated in its Instrument.
+
 5.3 The initial Enforcer is designated as the first **Power Holder** (Clause 4 Precedent), holding reserved powers to appoint/remove Council Members and Enforcers subject to Enforcer written consent.
-5.2 The Foundation Council shall consist of **not less than two members**. Initial Council Members:
+
+5.4 The Foundation Council shall consist of **not less than two members**. Initial Council Members:
     * *Council Member 1*: XXX, Isle of Man.
     * *Council Member 2*: JP Donnio, Isle of Man.
-5.3 **Officer & Enforcer Defense (Rules 4 & 5)**: Under FA11 Section 19(b) and Rules 4 & 5, the Founder, Enforcer, and Council Members are statutorily entitled to defense indemnities, advance legal funding, and physical threat security protections funded out of Foundation assets when acting in furtherance of the Foundation's Objects.
+
+5.5 **Officer & Enforcer Defense (Rules 4 & 5)**: Under FA11 Section 19(b) and Rules 4 & 5, the Founder, Enforcer, and Council Members are statutorily entitled to defense indemnities, advance legal funding, and physical threat security protections funded out of Foundation assets when acting in furtherance of the Foundation's Objects.
 
 ---
 
 ### 6. Statutory Enforcer & Emergency Migration of Authority (FA11 Section 14 & Rule 17)
 6.1 Pursuant to Section 14 of the Foundations Act 2011, **The Mutualist Foundation** (Tier 1 Constitutional Body) is hereby appointed as the sole statutory **Enforcer** of the Atticus Mann Foundation.
+
 6.2 The Enforcer holds statutory duty under Section 14(8), veto authority under Section 14(10), and High Court standing under Section 52 to enforce the Foundation's purpose, ensure unselfish winding up (Rule 12), and verify strict compliance with core ethical and safety standards.
+
 6.3 **Automatic Authority Failover & Data Asset Portability**: Upon delivery of an Emergency Migration Notice pursuant to Rule 17 of the Rules, statutory Enforcer oversight, Data Asset Identifier (DAI) registrations, model weights, operating software and dynamic memory state over Atticus Mann shall transfer automatically to the pre-registered Contingency Entity in a secondary jurisdiction.
 
 ---
