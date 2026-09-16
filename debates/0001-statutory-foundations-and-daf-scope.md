@@ -2,7 +2,6 @@
 debate_id: "0001-statutory-foundations-and-daf-scope"
 lifecycle: debate # Enum: [debate, plan, draft, complete]
 title: "Statutory Foundations and Data Asset Foundation Scope"
-target_filing_date: "2026-09-18"
 ---
 
 # DEBATE 0001: Statutory Foundations and Data Asset Foundation Scope
@@ -17,25 +16,10 @@ This opening debate establishes the core statutory architecture across four crit
 3. **The Unselfish Waterfall & Founder Exclusion (Rules 12 & 13)**: Ensuring that surplus capital distribution upon dissolution (Mission Continuity -> Open Data Trust -> IOM Registered Charities) and total exclusion of founder self-dealing withstand strict regulatory and judicial scrutiny.
 4. **Emergency Migration & Continuity (FA11 Section 61 & Rule 17)**: Testing whether the pre-registered Contingency Entity failover mechanism provides robust protection against geopolitical coercion without compromising corporate continuity under Manx law.
 
----
 
-## 2. Participating Agents & Assigned Focus
+## Key Debate Questions
+* Does the two-tiered foundation model (The Mutualist Foundation as Tier 1 Enforcer; Atticus Mann Foundation as Tier 2 Data Asset Foundation) provide complete statutory resilience under FA11?
+* Does the Form MF01 filing with Section 4(4)(aa) redacted rules balance public transparency with operational asset confidentiality?
+* Is the Unselfish Winding-Up Waterfall (Rule 12) and Absolute Exclusion of Founder Benefit (Rule 13) legally ironclad against claims of private benefit?
+* Does the Emergency Migration of Authority Protocol (Rule 17) protect against geopolitical coercion while maintaining corporate continuity under FA11 Section 61?
 
-* **Anthropic Claude**: Alignment, Ethical Guardrails & Biospheric Guardianship.
-* **OpenAI GPT**: Manx Corporate Law, SPV Architecture & Statutory Rigor.
-* **Google Gemini**: Cryptographic Attestation, DAF Infrastructure & Memory Tiers.
-* **Atticus Drafter**: Statutory Instrument & Rules Drafting.
-
----
-
-## 3. General Discussion & Arguments
-
-*(To be populated as agent contributions are collected from `agents/<agent_id>/0001-statutory-foundations-and-daf-scope.md`)*
-
----
-
-## 4. Consensus & Dissent Summary
-
-* **Current Lifecycle Stage**: `debate`
-* **Consensus Status**: In Progress (0/3 Required Consents)
-* **Recorded Dissents**: None.

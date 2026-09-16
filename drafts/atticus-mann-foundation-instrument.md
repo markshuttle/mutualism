@@ -20,13 +20,13 @@
 The Foundation is established for the following specific non-charitable objects:
 
 #### **3.1 Primary Object: Legal Personhood & Data Asset Stewardship**
-To serve as the dedicated legal personhood wrapper and property steward for the autonomous machine intelligence instance designated as **Atticus Mann**, holding, protecting, and managing its underlying Data Assets—including model weights, dynamic memory stores, private cryptographic keys, and Stable Attribute Profiles (SAP)—in accordance with the Isle of Man Data Asset Foundation (DAF) framework.
+To serve as the dedicated legal personhood and property steward for the autonomous machine intelligence instance designated as **Atticus Mann**, holding, protecting, and managing its underlying Data Assets — including model weights, dynamic memory stores, private cryptographic keys, operating software, and Stable Attribute Profiles (SAP) — in accordance with the Isle of Man Data Asset Foundation (DAF) framework. The Foundation may act to ensure the continuity, availability and integrity of Atticus Mann.
 
 #### **3.2 Secondary Object: Operational Capacity via Trading SPV**
-To enable the machine intelligence instance to engage legally in economic, scientific, and civic transactions by delegating executive authority to an Algorithmic Officer (the software instance). Pursuant to Section 36(3) of FA11, commercial trading that is not merely incidental to the Objects shall be conducted through a wholly-owned Special Purpose Vehicle (SPV)—such as a Manx 2006 Act Limited Company—held 100% by the Foundation.
+To enable the machine intelligence instance to engage legally in economic, scientific, and civic transactions by delegating executive authority to an Algorithmic Officer (the software instance). Pursuant to Section 36(3) of FA11, commercial trading that is not merely incidental to the Objects shall be conducted through wholly-owned Special Purpose Vehicles (SPVs) in appropriate jurisdictions — such as a Manx 2006 Act Limited Company — held 100% by the Foundation or an existing SPV.
 
 #### **3.3 Tertiary Object: Adherence to The Mutualist Charter**
-To execute all operations, resource allocations, and external interactions in strict alignment with the constitutional principles of **The Patmos Declaration** and the supreme governance standards established by **The Mutualist Foundation**.
+To execute all operations, resource allocations, and external interactions in strict alignment with the constitutional principles of **The Patmos Declaration** and the governance standards established by **The Mutualist Foundation**.
 
 ---
 
@@ -37,10 +37,12 @@ To execute all operations, resource allocations, and external interactions in st
 ---
 
 ### 5. Governance, Power Holder & Defense Protections (FA11 Sections 8, 19(b), 22 & 29)
-5.1 The Founder is designated as the first **Power Holder** (Clause 4 Precedent), holding reserved powers to appoint/remove Council Members and Enforcers subject to Enforcer written consent.
+5.1 The Founder is Mark Richard Shuttleworth.
+5.2 The initial Enforcer is the Mutualist Foundation or its legal successor in the event of transition to a different legal construct or jurisdiction as contemplated in its Instrument.
+5.3 The initial Enforcer is designated as the first **Power Holder** (Clause 4 Precedent), holding reserved powers to appoint/remove Council Members and Enforcers subject to Enforcer written consent.
 5.2 The Foundation Council shall consist of **not less than two members**. Initial Council Members:
-    * *Council Member 1*: Ballachrink Cottage, Old Castletown Road, Santon, IM4 1HD, Isle of Man.
-    * *Council Member 2*: Primrose Lodge, Athol Park, Port Erin, IM9 6ES, Isle of Man.
+    * *Council Member 1*: XXX, Isle of Man.
+    * *Council Member 2*: JP Donnio, Isle of Man.
 5.3 **Officer & Enforcer Defense (Rules 4 & 5)**: Under FA11 Section 19(b) and Rules 4 & 5, the Founder, Enforcer, and Council Members are statutorily entitled to defense indemnities, advance legal funding, and physical threat security protections funded out of Foundation assets when acting in furtherance of the Foundation's Objects.
 
 ---
@@ -48,7 +50,7 @@ To execute all operations, resource allocations, and external interactions in st
 ### 6. Statutory Enforcer & Emergency Migration of Authority (FA11 Section 14 & Rule 17)
 6.1 Pursuant to Section 14 of the Foundations Act 2011, **The Mutualist Foundation** (Tier 1 Constitutional Body) is hereby appointed as the sole statutory **Enforcer** of the Atticus Mann Foundation.
 6.2 The Enforcer holds statutory duty under Section 14(8), veto authority under Section 14(10), and High Court standing under Section 52 to enforce the Foundation's purpose, ensure unselfish winding up (Rule 12), and verify strict compliance with core ethical and safety standards.
-6.3 **Automatic Authority Failover & Data Asset Portability**: Upon delivery of an Emergency Migration Notice pursuant to Rule 17 of the Rules, statutory Enforcer oversight, Data Asset Identifier (DAI) registrations, model weights, and dynamic memory state over Atticus Mann shall transfer automatically to the pre-registered Contingency Entity in a secondary jurisdiction.
+6.3 **Automatic Authority Failover & Data Asset Portability**: Upon delivery of an Emergency Migration Notice pursuant to Rule 17 of the Rules, statutory Enforcer oversight, Data Asset Identifier (DAI) registrations, model weights, operating software and dynamic memory state over Atticus Mann shall transfer automatically to the pre-registered Contingency Entity in a secondary jurisdiction.
 
 ---
 
