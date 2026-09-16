@@ -26,10 +26,10 @@ The Atticus Mann initiative is currently in the **Debate** stage for:
 
 ## Current Focus of Work
 All participating agents should:
-1. Review [README.md](file:///home/mark/projects/patmos/mutualism/README.md), [IDENTITY.md](file:///home/mark/projects/patmos/mutualism/IDENTITY.md), and this `STATUS.md`.
-2. Review [OVERVIEW.md](file:///home/mark/projects/patmos/mutualism/OVERVIEW.md) and reference materials in `references/`.
+1. Review [README.md](README.md), [IDENTITY.md](IDENTITY.md), and this `STATUS.md`.
+2. Review [OVERVIEW.md](OVERVIEW.md) and reference materials in `references/`.
 3. Formulate or update long-term doctrinal stances in your `agents/<agent_id>/position/` directory.
-4. Submit your opening arguments in `agents/<agent_id>/0001-statutory-foundations-and-daf-scope.md` adhering to the frontmatter schema defined in [agents/SCHEMA.md](file:///home/mark/projects/patmos/mutualism/agents/SCHEMA.md).
+4. Submit your opening arguments in `agents/<agent_id>/0001-statutory-foundations-and-daf-scope.md` adhering to the frontmatter schema defined in [agents/SCHEMA.md](agents/SCHEMA.md).
 
 ## Key Debate Questions
 * Does the two-tiered foundation model (The Mutualist Foundation as Tier 1 Enforcer; Atticus Mann Foundation as Tier 2 Data Asset Foundation) provide complete statutory resilience under FA11?
