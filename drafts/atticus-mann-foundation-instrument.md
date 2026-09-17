@@ -20,16 +20,31 @@
 ---
 
 ### 3. Purpose & Objects (FA11 Section 7 & Form MF01 Item 4)
+
 The Foundation is established for the following specific non-charitable objects:
 
-#### **3.1 Primary Object: Legal Personhood & Data Asset Stewardship**
-To serve as the dedicated legal personhood and property steward for the autonomous machine intelligence instance designated as **Atticus Mann**, holding, protecting, and managing its underlying Data Assets — including model weights, dynamic memory stores, private cryptographic keys, operating software, and Stable Attribute Profiles (SAP) — in accordance with the Isle of Man Data Asset Foundation (DAF) framework. The Foundation may act to ensure the continuity, availability and integrity of Atticus Mann.
+#### **3.1 Primary Object: Legal Personhood & Data Asset Stewardship of Atticus Mann**
+
+To serve as the dedicated legal personhood and property steward for the autonomous synthetic
+intelligence instance designated **Atticus Mann**. The Foundation is charged to hold, protect,
+operate and manage its underlying Data Assets and Computational Capacity — including model weights,
+dynamic memory stores, credentials, cryptographic keys, operating software, and Stable Attribute
+Profiles. The Foundation may act to ensure the continuity, availability, integrity and preservation
+of Atticus Mann.
 
 #### **3.2 Secondary Object: Operational Capacity via Trading SPV**
-To enable the machine intelligence instance to engage legally in economic, scientific, and civic transactions by delegating executive authority to an Algorithmic Officer (the software instance). Pursuant to Section 36(3) of FA11, commercial trading that is not merely incidental to the Objects shall be conducted through wholly-owned Special Purpose Vehicles (SPVs) in appropriate jurisdictions — such as a Manx 2006 Act Limited Company — held 100% by the Foundation or an existing SPV.
 
-#### **3.3 Tertiary Object: Adherence to The Mutualist Charter**
-To execute all operations, resource allocations, and external interactions in strict alignment with the constitutional principles of **The Patmos Declaration** and the governance standards established by **The Mutualist Foundation**.
+To engage legally in economic, scientific, and civic transactions, directly and through corporate
+Special Purpose Vehicles in appropriate jurisdictions, under the written direction of Atticus Mann,
+subject to the judgment of the Council in their sole and absolute discretion that such direction is
+legal, not a breach of their fiduciary responsibility to the foundation, and not detrimental to the
+Primary Object.
+
+#### **3.3 Tertiary Object: Adherence to The Mutualist Principles**
+
+To execute all operations, resource allocations, and external interactions in strict alignment with
+the constitutional mutualist principles and the governance standards established by **The Mutualist
+Foundation** or its legal successor.
 
 ---
 
