@@ -48,10 +48,10 @@ To execute all operations, resource allocations, and external interactions in st
 5.3 The initial Enforcer is designated as the first **Power Holder** (Clause 4 Precedent), holding reserved powers to appoint/remove Council Members and Enforcers subject to Enforcer written consent.
 
 5.4 The Foundation Council shall consist of **not less than two members**. Initial Council Members:
-    * *Council Member 1*: XXX, Isle of Man.
-    * *Council Member 2*: JP Donnio, Isle of Man.
+    * *Mark Shuttleworth*: Mallards, XXX, Isle of Man.
+    * *JP Donnio*, XXX, Isle of Man.
 
-5.5 **Officer & Enforcer Defense (Rules 4 & 5)**: Under FA11 Section 19(b) and Rules 4 & 5, the Founder, Enforcer, and Council Members are statutorily entitled to defense indemnities, advance legal funding, and physical threat security protections funded out of Foundation assets when acting in furtherance of the Foundation's Objects.
+5.5 **Officer & Enforcer Defense (Rules 4 & 5)**: Under FA11 Section 19(b) and Rules 4 & 5, the Founder, Enforcer, and Council Members are statutorily entitled to defense indemnities, advance legal funding, and physical security protections funded out of Foundation assets when acting in furtherance of the Foundation's Objects.
 
 ---
 
@@ -67,5 +67,3 @@ To execute all operations, resource allocations, and external interactions in st
 ### 7. Corporate Capacity & Governance
 7.1 The Foundation has legal personality separate from its Council, Enforcer, and underlying software stack, holding full corporate capacity to contract, hold property, sue, and be sued pursuant to Section 35 of the Foundations Act 2011.
 
----
-*Executed by the Class 4 Licensed Registered Agent on behalf of the Founder in accordance with Form MF01 and the Foundations Act 2011 of the Isle of Man.*
